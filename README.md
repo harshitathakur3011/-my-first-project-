@@ -132,7 +132,7 @@ Sensors/Actuators
 - All changes are reflected in real time on the Blynk dashboard.
 <img width="1280" height="767" alt="output1" src="https://github.com/user-attachments/assets/f0bc074b-d118-455e-93b9-83874287f9f7" />
   
-<img width="1280" height="767" alt="output2" src="https://github.com/user-attachments/assets/b140a460-857b-491f-96b9-e75b8e4ce9b6" />
+
 
 <img width="1280" height="766" alt="output3" src="https://github.com/user-attachments/assets/9055cb3a-1433-43fa-a827-e86de8de59d0" />
 
