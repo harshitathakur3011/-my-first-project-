@@ -136,8 +136,10 @@ Sensors/Actuators
 
 <img width="1280" height="766" alt="output3" src="https://github.com/user-attachments/assets/9055cb3a-1433-43fa-a827-e86de8de59d0" />
 
+<img width="1280" height="780" alt="output4" src="https://github.com/user-attachments/assets/77306f9c-6e86-4f1c-979a-9ee4c5b925a6" />
 
 <img width="722" height="1600" alt="output5" src="https://github.com/user-attachments/assets/93407ac5-a240-4d16-9c41-95fe672559d6" />
+<img width="722" height="1600" alt="WhatsApp Image 2026-06-22 at 3 30 07 PM" src="https://github.com/user-attachments/assets/0311bf5b-fe6e-4815-87ca-26e709a22376" />
 
 🎓 Learning Outcomes
 
