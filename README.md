@@ -130,11 +130,10 @@ Sensors/Actuators
 - Inlet Valve can be controlled from V4.
 - Outlet Valve can be controlled from V5.
 - All changes are reflected in real time on the Blynk dashboard.
-<img width="1280" height="767" alt="output1" src="https://github.com/user-attachments/assets/f0bc074b-d118-455e-93b9-83874287f9f7" />
-  
-
-
 <img width="1280" height="766" alt="output3" src="https://github.com/user-attachments/assets/9055cb3a-1433-43fa-a827-e86de8de59d0" />
+
+<img width="1280" height="789" alt="WhatsApp Image 2026-06-22 at 3 39 31 PM" src="https://github.com/user-attachments/assets/e43936e2-7753-48db-85ae-f0451e440fb2" />
+
 
 <img width="1280" height="780" alt="output4" src="https://github.com/user-attachments/assets/77306f9c-6e86-4f1c-979a-9ee4c5b925a6" />
 
